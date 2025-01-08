@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Chikara.Fit
+- 🌱 I’m currently learning to code and studying for an MBA
+- 👯 I’m looking to collaborate on new interesting projects
+- 🤔 I’m looking for help with figuring out what's the purpose of life
+- 💬 Ask me about anything fitness related
+- 📫 How to reach me: @mikes_io on x
+- ⚡ Fun fact: I love surfing and snowboarding. 
+
 <!--
 **chikaramike/chikaramike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
